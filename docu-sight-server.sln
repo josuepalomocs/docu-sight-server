@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docu-sight-server", "docu-sight-server\docu-sight-server.csproj", "{253258BE-13CC-44C6-8E2E-B8CF8D96BF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253258BE-13CC-44C6-8E2E-B8CF8D96BF4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253258BE-13CC-44C6-8E2E-B8CF8D96BF4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253258BE-13CC-44C6-8E2E-B8CF8D96BF4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253258BE-13CC-44C6-8E2E-B8CF8D96BF4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
